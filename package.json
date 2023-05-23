@@ -21,6 +21,7 @@
     ]
   },
   "devDependencies": {
+    "axios": "^1.4.0",
     "dumi": "1.0.14",
     "lint-staged": "^10.0.7",
     "prettier": "^2.2.1",
